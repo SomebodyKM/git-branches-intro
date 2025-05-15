@@ -18,3 +18,7 @@ git push
 git branch
 git switch main
 ```
+
+## Presentation
+
+Presentation will be on May 16. Quiz will follow afterward.
