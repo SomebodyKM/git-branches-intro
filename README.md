@@ -7,3 +7,9 @@ This is my **Git Branches Intro** repository. Let's learn _Branching!_
 ```bash
 git init
 ```
+
+```bash
+git add
+git commit -m "Added new file"
+git push
+```
